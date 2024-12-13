@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Marvel123g/testimonial-grid.git))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://marvel123g.github.io/testimonial-grid/))
 
 ### Built with
 
@@ -56,6 +56,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Marvelous](https://www.your-site.com)
+- Website - [Marvelous](https://marvel123g.github.io/testimonial-grid/))
 - Frontend Mentor - [@Marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
 - Instagram - [@ma.rvellous971]
